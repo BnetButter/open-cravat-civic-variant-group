@@ -1,0 +1,30 @@
+##fileformat=VCFv4.2
+##fileDate=20230808
+##source=YourSoftwareName
+##reference=GRCh37
+##contig=<ID=4,length=1000000000>
+##contig=<ID=9,length=1000000000>
+##INFO=<ID=ENST,Number=1,Type=String,Description="Ensembl Transcript">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM  POS     ID  REF  ALT  QUAL  FILTER  INFO                           FORMAT  SAMPLE
+9       133748283  .   C    T    .     .       ENST=ENST00000318560.5          GT      0/1
+9       133738363  .   G    A    .     .       ENST=ENST00000318560.5          GT      0/1
+4       55152092   .   GA   AT   .     .       ENST=ENST00000257290.5          GT      0/1
+4       55152093   .   A    T    .     .       ENST=ENST00000257290.5          GT      0/1
+4       55152092   .   G    T    .     .       ENST=ENST00000257290.5          GT      0/1
+4       55152095   .   ATC  .    .     .       ENST=ENST00000257290.5          GT      0/1
+4       55152093   .   ACATC TCATG .   .       ENST=ENST00000257290.5          GT      0/1
+9       133748288  .   T    C    .     .       ENST=ENST00000318560.5          GT      0/1
+4       55599321   .   A    T    .     .       ENST=ENST00000288135.5          GT      0/1
+4       55599320   .   G    C    .     .       ENST=ENST00000288135.5          GT      0/1
+4       55599332   .   G    T    .     .       ENST=ENST00000288135.5          GT      0/1
+5       87349321   .   C    T    .     .       ENST=RANDOM1                    GT      0/1
+7       39483202   .   G    A    .     .       ENST=RANDOM2                    GT      0/1
+1       19202122   .   T    G    .     .       ENST=RANDOM3                    GT      0/1
+16      92827374   .   A    C    .     .       ENST=RANDOM4                    GT      0/1
+11      29387439   .   G    T    .     .       ENST=RANDOM5                    GT      0/1
+13      84739202   .   C    A    .     .       ENST=RANDOM6                    GT      0/1
+6       28393221   .   T    C    .     .       ENST=RANDOM7                    GT      0/1
+12      93928303   .   A    G    .     .       ENST=RANDOM8                    GT      0/1
+8       27392844   .   C    T    .     .       ENST=RANDOM9                    GT      0/1
+17      94827392   .   G    A    .     .       ENST=RANDOM10                   GT      0/1

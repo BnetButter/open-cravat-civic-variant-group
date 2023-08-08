@@ -1,0 +1,5 @@
+SOURCE:error.converter      
+LINE:15
+INPUT:4       55152095   .   ATC  .    .     .       ENST=ENST00000257290.5          GT      0/1
+ERROR:Reference and alternate alleles are the same.
+#

@@ -1,0 +1,93 @@
+#CRAVAT Report
+#Created at Tuesday 08/08/2023 17:19:00
+#Report level: variant
+#
+Variant Annotation																		Civic Variant Group		Extra VCF INFO Annotations				Original Input				VCF Info							
+UID	Chrom	Position	Ref Base	Alt Base	Variant Note	Coding	Gene	Transcript	Sequence Ontology	Exon Number	cDNA change	Protein Change	All Mappings	End Position	Sample Count	Samples	Tags	Variant Group Name	Variant Group Description	VCF Position	VCF Ref Allele	VCF Alt Allele	ENST	Chrom	Pos	Reference allele	Alternate allele	Phred	VCF filter	Zygosity	Alternate reads	Total reads	Variant AF	Haplotype block ID	Haplotype strand ID
+1	chr9	133748283	C	T										133748283	1	SAMPLE		Imatinib Resistance	While imatinib has shown to be incredibly successful in treating philadelphia chromosome positive CML, patients that have shown primary or secondary resistance to the drug have been observed to harbor T315I and E255K ABL kinase domain mutations. These mutations, among others, have been observed both in primary refractory disease and acquired resistance. In gastrointestinal stromal tumors (GIST), PDGFRA 842 mutations have also been shown to confer resistance to imatinib. 	133748283	C	T	ENST00000318560.5	chr9	133748283	C	T			het					
+2	chr9	133738363	G	A			SARDH	ENST00000439388.6	2kb_upstream_variant		c.-140C>T		ENST00000298628.6:SARDH::intron_variant::c.-31+1330C>T; ENST00000371872.8:SARDH:Q9UL12:intron_variant::c.-31+1330C>T; ENST00000439388.6:SARDH:Q9UL12:2kb_upstream_variant::c.-140C>T	133738363	1	SAMPLE		Imatinib Resistance	While imatinib has shown to be incredibly successful in treating philadelphia chromosome positive CML, patients that have shown primary or secondary resistance to the drug have been observed to harbor T315I and E255K ABL kinase domain mutations. These mutations, among others, have been observed both in primary refractory disease and acquired resistance. In gastrointestinal stromal tumors (GIST), PDGFRA 842 mutations have also been shown to confer resistance to imatinib. 	133738363	G	A	ENST00000318560.5	chr9	133738363	G	A			het					
+3	chr4	55152092	GA	AT										55152093	1	SAMPLE		Imatinib Resistance	While imatinib has shown to be incredibly successful in treating philadelphia chromosome positive CML, patients that have shown primary or secondary resistance to the drug have been observed to harbor T315I and E255K ABL kinase domain mutations. These mutations, among others, have been observed both in primary refractory disease and acquired resistance. In gastrointestinal stromal tumors (GIST), PDGFRA 842 mutations have also been shown to confer resistance to imatinib. 	55152092	GA	AT	ENST00000257290.5	chr4	55152092	GA	AT			het					
+4	chr4	55152093	A	T										55152093	1	SAMPLE		Imatinib Resistance	While imatinib has shown to be incredibly successful in treating philadelphia chromosome positive CML, patients that have shown primary or secondary resistance to the drug have been observed to harbor T315I and E255K ABL kinase domain mutations. These mutations, among others, have been observed both in primary refractory disease and acquired resistance. In gastrointestinal stromal tumors (GIST), PDGFRA 842 mutations have also been shown to confer resistance to imatinib. 	55152093	A	T	ENST00000257290.5	chr4	55152093	A	T			het					
+5	chr4	55152092	G	T										55152092	1	SAMPLE		Imatinib Resistance	While imatinib has shown to be incredibly successful in treating philadelphia chromosome positive CML, patients that have shown primary or secondary resistance to the drug have been observed to harbor T315I and E255K ABL kinase domain mutations. These mutations, among others, have been observed both in primary refractory disease and acquired resistance. In gastrointestinal stromal tumors (GIST), PDGFRA 842 mutations have also been shown to confer resistance to imatinib. 	55152092	G	T	ENST00000257290.5	chr4	55152092	G	T			het					
+7	chr4	55152093	ACATC	TCATG										55152097	1	SAMPLE		Imatinib Resistance	While imatinib has shown to be incredibly successful in treating philadelphia chromosome positive CML, patients that have shown primary or secondary resistance to the drug have been observed to harbor T315I and E255K ABL kinase domain mutations. These mutations, among others, have been observed both in primary refractory disease and acquired resistance. In gastrointestinal stromal tumors (GIST), PDGFRA 842 mutations have also been shown to confer resistance to imatinib. 	55152093	ACATC	TCATG	ENST00000257290.5	chr4	55152093	ACATC	TCATG			het					
+8	chr9	133748288	T	C										133748288	1	SAMPLE		Imatinib Resistance	While imatinib has shown to be incredibly successful in treating philadelphia chromosome positive CML, patients that have shown primary or secondary resistance to the drug have been observed to harbor T315I and E255K ABL kinase domain mutations. These mutations, among others, have been observed both in primary refractory disease and acquired resistance. In gastrointestinal stromal tumors (GIST), PDGFRA 842 mutations have also been shown to confer resistance to imatinib. 	133748288	T	C	ENST00000318560.5	chr9	133748288	T	C			het					
+9	chr4	55599321	A	T			NMU	ENST00000264218.7	intron_variant		c.490-140T>A		ENST00000264218.7:NMU:P48645:intron_variant::c.490-140T>A; ENST00000505262.5:NMU::intron_variant::c.409-140T>A; ENST00000507338.1:NMU::intron_variant::c.415-140T>A; ENST00000509371.1:NMU::intron_variant,processed_transcript::; ENST00000511469.5:NMU::intron_variant::c.442-140T>A; ENST00000515325.5:NMU::intron_variant,processed_transcript::	55599321	1	SAMPLE		KIT Exon 17		55599321	A	T	ENST00000288135.5	chr4	55599321	A	T			het					
+10	chr4	55599320	G	C			NMU	ENST00000264218.7	intron_variant		c.490-139C>G		ENST00000264218.7:NMU:P48645:intron_variant::c.490-139C>G; ENST00000505262.5:NMU::intron_variant::c.409-139C>G; ENST00000507338.1:NMU::intron_variant::c.415-139C>G; ENST00000509371.1:NMU::intron_variant,processed_transcript::; ENST00000511469.5:NMU::intron_variant::c.442-139C>G; ENST00000515325.5:NMU::intron_variant,processed_transcript::	55599320	1	SAMPLE		KIT Exon 17		55599320	G	C	ENST00000288135.5	chr4	55599320	G	C			het					
+11	chr4	55599332	G	T			NMU	ENST00000264218.7	intron_variant		c.490-151C>A		ENST00000264218.7:NMU:P48645:intron_variant::c.490-151C>A; ENST00000505262.5:NMU::intron_variant::c.409-151C>A; ENST00000507338.1:NMU::intron_variant::c.415-151C>A; ENST00000509371.1:NMU::intron_variant,processed_transcript::; ENST00000511469.5:NMU::intron_variant::c.442-151C>A; ENST00000515325.5:NMU::intron_variant,processed_transcript::	55599332	1	SAMPLE		KIT Exon 17		55599332	G	T	ENST00000288135.5	chr4	55599332	G	T			het					
+12	chr5	87349321	C	T		Yes	RASA1	ENST00000274376.11	missense_variant	8	c.1210C>T	p.Thr404Ser	ENST00000274376.11:RASA1:P20936:missense_variant:p.Thr404Ser:c.1210C>T; ENST00000456692.6:RASA1:P20936:missense_variant:p.Thr227Ser:c.679C>T; ENST00000506290.1:RASA1::missense_variant:p.Thr238Ser:c.712C>T; ENST00000512763.5:RASA1:P20936:missense_variant:p.Thr237Ser:c.709C>T; ENST00000515800.6:RASA1:P20936:missense_variant,NMD_transcript_variant:p.Thr404Ser:c.1210C>T; ENST00000645953.1:CCNH::intron_variant,NMD_transcript_variant::c.*91-30424G>A	87349321	1	SAMPLE				87349321	C	T	RANDOM1	chr5	87349321	C	T			het					
+13	chr7	39483202	G	A			POU6F2	ENST00000426456.1	processed_transcript				ENST00000426456.1:POU6F2::intron_variant,processed_transcript::	39483202	1	SAMPLE				39483202	G	A	RANDOM2	chr7	39483202	G	A			het					
+14	chr1	19202122	T	G			UBR4	ENST00000375254.8	intron_variant		c.177-307A>C		ENST00000375254.8:UBR4:Q5T4S7:intron_variant::c.177-307A>C	19202122	1	SAMPLE				19202122	T	G	RANDOM3	chr1	19202122	T	G			het					
+15	chr16	92827374	A	C										92827374	1	SAMPLE				92827374	A	C	RANDOM4	chr16	92827374	A	C			het					
+16	chr11	29387439	G	T			LINC02755	ENST00000525097.1	lnc_RNA				ENST00000525097.1:LINC02755::intron_variant,lnc_RNA::; ENST00000528553.2:LINC02755::intron_variant,lnc_RNA::; ENST00000653616.1:LINC02755::intron_variant,lnc_RNA::; ENST00000657392.1:LINC02755::intron_variant,lnc_RNA::	29387439	1	SAMPLE				29387439	G	T	RANDOM5	chr11	29387439	G	T			het					
+17	chr13	84739202	C	A										84739202	1	SAMPLE				84739202	C	A	RANDOM6	chr13	84739202	C	A			het					
+18	chr6	28393221	T	C			ZSCAN12	ENST00000361028.5	intron_variant		c.403-175A>G		ENST00000361028.5:ZSCAN12:O43309:intron_variant::c.403-175A>G; ENST00000396827.3:ZSCAN12:O43309:intron_variant::c.403-175A>G	28393221	1	SAMPLE				28393221	T	C	RANDOM7	chr6	28393221	T	C			het					
+19	chr12	93928303	A	G			AC012464.1	ENST00000550687.1	lnc_RNA				ENST00000550687.1:AC012464.1::intron_variant,lnc_RNA::	93928303	1	SAMPLE				93928303	A	G	RANDOM8	chr12	93928303	A	G			het					
+20	chr8	27392844	C	T			PTK2B	ENST00000346049.10	intron_variant		c.-37-4704C>T		ENST00000346049.10:PTK2B:Q14289:intron_variant::c.-37-4704C>T; ENST00000397501.5:PTK2B:Q14289:intron_variant::c.-37-4704C>T; ENST00000420218.3:PTK2B:Q14289:intron_variant::c.-37-4704C>T; ENST00000496920.1:PTK2B::intron_variant,processed_transcript::	27392844	1	SAMPLE				27392844	C	T	RANDOM9	chr8	27392844	C	T			het					
+21	chr17	94827392	G	A										94827392	1	SAMPLE				94827392	G	A	RANDOM10	chr17	94827392	G	A			het					
+#CRAVAT Report
+#Created at Tuesday 08/08/2023 17:19:00
+#Report level: gene
+#
+Variant Annotation					
+Gene	Gene Note	Number of Coding Variants	Number of Noncoding Variants	Sequence Ontology	All Sequence Ontologies
+SARDH		0	1	2kb_upstream_variant	intron_variant(1)
+NMU		0	3	intron_variant	intron_variant(3),processed_transcript(3)
+RASA1		1	0	missense_variant	missense_variant(1),NMD_transcript_variant(1)
+POU6F2		0	1	processed_transcript	intron_variant(1),processed_transcript(1)
+UBR4		0	1	intron_variant	intron_variant(1)
+LINC02755		0	1	lnc_RNA	intron_variant(1),lnc_RNA(1)
+ZSCAN12		0	1	intron_variant	intron_variant(1)
+AC012464.1		0	1	lnc_RNA	intron_variant(1),lnc_RNA(1)
+PTK2B		0	1	intron_variant	intron_variant(1),processed_transcript(1)
+#CRAVAT Report
+#Created at Tuesday 08/08/2023 17:19:00
+#Report level: sample
+#
+Variant Annotation									
+UID	Sample	Phred	VCF filter	Zygosity	Alternate reads	Total reads	Variant allele frequency	Haplotype block ID	Haplotype strand ID
+1	SAMPLE			het					
+2	SAMPLE			het					
+3	SAMPLE			het					
+4	SAMPLE			het					
+5	SAMPLE			het					
+7	SAMPLE			het					
+8	SAMPLE			het					
+9	SAMPLE			het					
+10	SAMPLE			het					
+11	SAMPLE			het					
+12	SAMPLE			het					
+13	SAMPLE			het					
+14	SAMPLE			het					
+15	SAMPLE			het					
+16	SAMPLE			het					
+17	SAMPLE			het					
+18	SAMPLE			het					
+19	SAMPLE			het					
+20	SAMPLE			het					
+21	SAMPLE			het					
+#CRAVAT Report
+#Created at Tuesday 08/08/2023 17:19:00
+#Report level: mapping
+#
+Variant Annotation			
+Original Line	User Tags	UID	Input File Number
+10		1	0
+11		2	0
+12		3	0
+13		4	0
+14		5	0
+16		7	0
+17		8	0
+18		9	0
+19		10	0
+20		11	0
+21		12	0
+22		13	0
+23		14	0
+24		15	0
+25		16	0
+26		17	0
+27		18	0
+28		19	0
+29		20	0
+30		21	0

@@ -1,0 +1,90 @@
+2023/08/08 17:17:36 cravat               /home/bnetbutter/miniconda3/bin/oc run ../test/test.vcf -l hg38 --debug -a civic_variant_group
+2023/08/08 17:17:36 cravat               started: Tue Aug  8 17:17:36 2023
+2023/08/08 17:17:36 cravat               input files: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf
+2023/08/08 17:17:36 cravat               input assembly: hg38
+2023/08/08 17:17:36 cravat               version: open-cravat 2.4.1 /home/bnetbutter/Documents/open-cravat/cravat
+2023/08/08 17:17:36 cravat               version: civic_variant_group 0.0.1 /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group
+2023/08/08 17:17:36 cravat               version: hg38 1.11.0 /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38
+2023/08/08 17:17:36 cravat.converter     started: Tue Aug  8 17:17:36 2023
+2023/08/08 17:17:36 cravat.converter     Input file(s): /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf
+2023/08/08 17:17:36 cravat.converter     input format: vcf
+2023/08/08 17:17:36 cravat.converter     Traceback (most recent call last):
+  File "/home/bnetbutter/Documents/open-cravat/cravat/cravat_convert.py", line 513, in run
+    raise NoVariantError()
+cravat.exceptions.NoVariantError: Reference and alternate alleles are the same.
+2023/08/08 17:17:36 cravat.converter     error lines: 1
+2023/08/08 17:17:36 cravat.converter     finished: Tue Aug  8 17:17:36 2023
+2023/08/08 17:17:36 cravat.converter     num input lines: 21
+2023/08/08 17:17:36 cravat.converter     runtime: 0.094
+2023/08/08 17:17:36 cravat               num_workers: 7
+2023/08/08 17:17:36 cravat               input line chunksize=2 total number of input lines=20 number of chunks=7
+2023/08/08 17:17:37 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf.crv
+2023/08/08 17:17:37 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf.crv
+2023/08/08 17:17:37 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf.crv
+2023/08/08 17:17:37 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf.crv
+2023/08/08 17:17:37 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf.crv
+2023/08/08 17:17:37 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf.crv
+2023/08/08 17:17:37 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test/test.vcf.crv
+2023/08/08 17:17:39 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/08 17:17:39 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/08 17:17:39 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/08 17:17:39 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/08 17:17:39 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/08 17:17:39 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/08 17:17:39 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/08 17:17:40 cravat.mapper        started: Tue Aug  8 17:17:40 2023 | 1639
+2023/08/08 17:17:40 cravat.mapper        finished: Tue Aug  8 17:17:40 2023 | 1639
+2023/08/08 17:17:40 cravat.mapper        runtime:  0.004
+2023/08/08 17:17:40 cravat.mapper        started: Tue Aug  8 17:17:40 2023 | 0
+2023/08/08 17:17:40 cravat.mapper        finished: Tue Aug  8 17:17:40 2023 | 0
+2023/08/08 17:17:40 cravat.mapper        runtime:  0.003
+2023/08/08 17:17:40 cravat.mapper        started: Tue Aug  8 17:17:40 2023 | 1682
+2023/08/08 17:17:40 cravat.mapper        finished: Tue Aug  8 17:17:40 2023 | 1682
+2023/08/08 17:17:40 cravat.mapper        runtime:  0.003
+2023/08/08 17:17:40 cravat.mapper        started: Tue Aug  8 17:17:40 2023 | 1545
+2023/08/08 17:17:40 cravat.mapper        finished: Tue Aug  8 17:17:40 2023 | 1545
+2023/08/08 17:17:40 cravat.mapper        runtime:  0.002
+2023/08/08 17:17:40 cravat.mapper        started: Tue Aug  8 17:17:40 2023 | 1770
+2023/08/08 17:17:40 cravat.mapper        finished: Tue Aug  8 17:17:40 2023 | 1770
+2023/08/08 17:17:40 cravat.mapper        runtime:  0.004
+2023/08/08 17:17:40 cravat.mapper        started: Tue Aug  8 17:17:40 2023 | 1726
+2023/08/08 17:17:40 cravat.mapper        finished: Tue Aug  8 17:17:40 2023 | 1726
+2023/08/08 17:17:40 cravat.mapper        runtime:  0.004
+2023/08/08 17:17:40 cravat.mapper        started: Tue Aug  8 17:17:40 2023 | 1589
+2023/08/08 17:17:40 cravat.mapper        finished: Tue Aug  8 17:17:40 2023 | 1589
+2023/08/08 17:17:40 cravat.mapper        runtime:  0.002
+2023/08/08 17:17:40 cravat               num_workers: 7
+2023/08/08 17:17:40 cravat.civic_variant_group started: Tue Aug  8 17:17:40 2023
+2023/08/08 17:17:40 cravat.civic_variant_group finished: Tue Aug  8 17:17:40 2023
+2023/08/08 17:17:40 cravat.civic_variant_group runtime: 0.006s
+2023/08/08 17:17:40 cravat.civic_variant_group started: Tue Aug  8 17:17:40 2023
+2023/08/08 17:17:40 cravat.civic_variant_group finished: Tue Aug  8 17:17:40 2023
+2023/08/08 17:17:40 cravat.civic_variant_group runtime: 0.003s
+2023/08/08 17:17:41 cravat.aggregator    level: variant
+2023/08/08 17:17:41 cravat.aggregator    input directory: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test
+2023/08/08 17:17:41 cravat.aggregator    started: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.aggregator    finished: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.aggregator    runtime: 0.005
+2023/08/08 17:17:41 cravat.aggregator    level: gene
+2023/08/08 17:17:41 cravat.aggregator    input directory: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test
+2023/08/08 17:17:41 cravat.aggregator    started: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.aggregator    finished: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.aggregator    runtime: 0.001
+2023/08/08 17:17:41 cravat.aggregator    level: sample
+2023/08/08 17:17:41 cravat.aggregator    input directory: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test
+2023/08/08 17:17:41 cravat.aggregator    started: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.aggregator    finished: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.aggregator    runtime: 0.002
+2023/08/08 17:17:41 cravat.aggregator    level: mapping
+2023/08/08 17:17:41 cravat.aggregator    input directory: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_variant_group/test
+2023/08/08 17:17:41 cravat.aggregator    started: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.aggregator    finished: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.aggregator    runtime: 0.002
+2023/08/08 17:17:41 cravat.tagsampler    started: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.tagsampler    finished: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.tagsampler    runtime: 0.017
+2023/08/08 17:17:41 cravat.vcfinfo       started: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.vcfinfo       finished: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat.vcfinfo       runtime: 0.022
+2023/08/08 17:17:41 cravat               finished: Tue Aug  8 17:17:41 2023
+2023/08/08 17:17:41 cravat               runtime: 5.518s
