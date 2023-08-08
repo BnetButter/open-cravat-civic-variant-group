@@ -21,3 +21,5 @@ python3 create_variants.py < civicdata.json > 'group_variants.csv'
 # Create the sqlite3 database. Note that the names of the files are harded coded in
 python3 create_sqlite3.py
 ```
+
+This will create a `civic_variant_group.sqlite` file, which needs to be placed in `civic_variant_group/data` directory
