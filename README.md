@@ -16,7 +16,7 @@ curl https://civicdb.org/api/variant_groups?count=9999 > civicdata.json
 python3 create_group.py < civicdata.json > 'group_table.csv'
 
 # Create the variant table
-python3 create_variants.py < civicdata.json > 'variant_table.csv'
+python3 create_variants.py < civicdata.json > 'group_variants.csv'
 
 # Create the sqlite3 database. Note that the names of the files are harded coded in
 python3 create_sqlite3.py
